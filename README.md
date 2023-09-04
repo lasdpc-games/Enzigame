@@ -13,3 +13,17 @@ Windows: Extract files and run the "Enzigame.exe"
 Android: Download the .apk, run it, give it permission to be installed and install it. After that, it should be showing on your apps list.
 
 ![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/menu.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/teacher.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/mobile.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/capturedSubstrate.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/brokenSubstrate.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/stomach.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/intestine.png?raw=true)
+
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/lostScreen.png?raw=true)
