@@ -12,4 +12,4 @@ Windows: Extract files and run the "Enzigame.exe"
 
 Android: Download the .apk, run it, give it permission to be installed and install it. After that, it should be showing on your apps list.
 
-![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Images/menu.jpg?raw=true)
+![alt text](https://github.com/lasdpc-games/Enzigame/blob/main/./Prints/menu.png?raw=true)
